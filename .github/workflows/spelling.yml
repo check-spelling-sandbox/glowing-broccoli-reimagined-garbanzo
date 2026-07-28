@@ -67,8 +67,6 @@ on:
       - 'reopened'
       - 'synchronize'
   merge_group:
-    types:
-      - 'checks_requested'
   issue_comment:
     types:
       - 'created'
