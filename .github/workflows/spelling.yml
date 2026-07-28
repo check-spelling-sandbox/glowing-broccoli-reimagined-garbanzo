@@ -66,6 +66,9 @@ on:
       - 'opened'
       - 'reopened'
       - 'synchronize'
+  merge_group:
+    types:
+      - 'checks_requested'
   issue_comment:
     types:
       - 'created'
@@ -118,6 +121,7 @@ jobs:
               ],
               "": []
             }
+          debug: 1
 
   update:
     name: Update PR
