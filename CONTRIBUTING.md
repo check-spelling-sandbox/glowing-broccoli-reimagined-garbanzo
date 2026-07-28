@@ -1,3 +1,3 @@
 # Contributing
 
-This repository is solly for testing check-spelling with merge_queue.
+This repository is solely for testing check-spelling with merge_queue.
