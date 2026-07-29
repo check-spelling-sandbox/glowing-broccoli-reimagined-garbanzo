@@ -2,4 +2,4 @@
 
 This is glowing broccoli reimagined garbanzo.
 Sometimes it's enough.
-When teh wind opens.
+When the window opens.
